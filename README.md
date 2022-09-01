@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning publishing web pages
 - 💞️ I’m looking to collaborate on Frontend work on web pages and apps projects
 - 📫 You can contact me on kvnalxndr0521@gmail.com
-Fom Colombia 
+- Fom Colombia 
 
 <!---
 KvnalxndrWeb/KvnalxndrWeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
